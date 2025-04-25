@@ -1,8 +1,14 @@
 ### Hi there 👋 I'm Enzo Torales
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+
 Advanced Arch Linux user with solid command-line skills. Python programmer and cybersecurity student with a focus on ethical hacking. Passionate about environment customization, automation, and continuous learning.
 
+
+<img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
+
 ## My Skills Include
+
 
 <h4> Languages </h4>
 <span> 
