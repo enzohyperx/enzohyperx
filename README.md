@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Enzo Torales
 
-Advanced Linux user, I like programming in Python, also creating code for tiling window managers
+Advanced Arch Linux user with solid command-line skills. Python programmer and cybersecurity student with a focus on ethical hacking. Passionate about environment customization, automation, and continuous learning.
 
 ## My Skills Include
 
