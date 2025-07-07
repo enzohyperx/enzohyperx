@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Enzo Torales
+## Hi there 👋 I'm Enzo Torales
 
 #### About Me
 
@@ -10,7 +10,7 @@ Advanced Arch Linux user with solid command-line skills. Python programmer and c
 
 
 
-## My Skills Include
+### My Skills Include
 
 
 <h4> Languages </h4>
