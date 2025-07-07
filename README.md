@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Enzo Torales
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+About Me
 
 Advanced Arch Linux user with solid command-line skills. Python programmer and cybersecurity student with a focus on ethical hacking. Passionate about environment customization, automation, and continuous learning.
 
