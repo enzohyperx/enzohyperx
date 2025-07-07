@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Enzo Torales
+## Hi there I'm Enzo Torales
 
 #### About Me
 
